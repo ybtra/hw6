@@ -1,7 +1,5 @@
 package academy.belhard;
 
-import java.sql.SQLOutput;
-
 public class Car extends Vehicle implements Costable {
     private int doorsCount;
     private int cost;
